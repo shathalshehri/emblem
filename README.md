@@ -1,2 +1,2 @@
 #  emblem 
-An emblem built with AdobeXD
+An emblem built with AdobeXD used for a college course project
